@@ -1799,20 +1799,20 @@ annotations:
     reference: ''
     span:
       start: 344013
-      end: 345345
+      end: 345347
     note_ref: f5bc9b4fa9cd46f2adc74e3da4946145
   c1eff38c2c0641dea14ae5622eed3520:
     imgnum: 1290
     reference: ''
     span:
-      start: 345347
-      end: 346661
+      start: 345349
+      end: 346660
     note_ref: f5bc9b4fa9cd46f2adc74e3da4946145
   2471d6d7029a4aefb79bf8ce76cfbe27:
     imgnum: 1291
     reference: ''
     span:
-      start: 346663
+      start: 346662
       end: 348037
     note_ref: f5bc9b4fa9cd46f2adc74e3da4946145
   7e5a7c96c0574cb8855081a614da86ee:
